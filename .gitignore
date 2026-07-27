@@ -1,0 +1,4 @@
+# Solo se sube el index.html. Nada más.
+*
+!index.html
+!.gitignore
